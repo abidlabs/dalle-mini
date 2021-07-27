@@ -3,8 +3,8 @@ title: DALL·E mini
 emoji: 🥑
 colorFrom: red
 colorTo: purple
-sdk: streamlit
-app_file: app/app.py
+sdk: gradio
+app_file: app/gradio/app.py
 pinned: false
 ---
 
@@ -16,7 +16,7 @@ _Generate images from a text prompt_
 
 Our logo was generated with DALL·E mini using the prompt "logo of an armchair in the shape of an avocado".
 
-You can create your own pictures with [the demo](https://huggingface.co/spaces/flax-community/dalle-mini) (temporarily in beta on Huging Face Spaces but soon to be open to all).
+You can create your own pictures with [the demo](https://huggingface.co/spaces/abidlabs/dalle-mini) (temporarily in beta on Huging Face Spaces but soon to be open to all).
 
 ## How does it work?
 
